@@ -23,7 +23,7 @@ const questions = [
         name: 'description'
     }, {
         type: 'input',
-        message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.',
+        message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running (if applicable).',
         name: 'installation'
     }, {
         type: 'input',
@@ -44,6 +44,14 @@ const questions = [
             'BSD_2_Clause',
             'BSD_3_Clause'
         ]
+    }, {
+        type: 'input',
+        message: 'Please input the contribution guidelines you would like to apply (if any):',
+        name: 'contributing'
+    }, {
+        type: 'input',
+        message: 'Please enter your test command (if any):',
+        name: 'tests'
     }, {
         type: 'input',
         message: 'Please enter the link for your deployed application:',

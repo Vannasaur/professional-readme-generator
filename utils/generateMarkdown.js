@@ -74,6 +74,14 @@ ${data.credits}
 
 ${renderLicenseSection(data.license)}
 
+## Contributing
+
+${data.contributing}
+
+## Tests
+
+${data.tests}
+
 ## Questions
 
 Please refer to my profile for additional projects: https://github.com/${data.username}
