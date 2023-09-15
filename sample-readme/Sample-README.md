@@ -19,7 +19,6 @@ N/A
 
 In order to use this README Generator, open up your terminal on Mac, GitBASH on Windows, or integrated terminal in VSCode and open up the folder that contains your README Generator code. Once this is open, type in node index.js. This will bring up the prompts for you to answer that will create your README.
 
-Link to deployed application: https://vannasaur.github.io/professional-readme-generator/
 
 ## Credits
 

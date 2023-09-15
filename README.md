@@ -53,7 +53,9 @@ Please also install the following programs:
 
 In order to use this application, open up your terminal (on Mac) or Git Bash (on Windows). CD into the folder that contains the README Generator code and type ‘node index.js’ into your terminal (without the single quotations). You will be prompted with questions regarding the project you are creating the README.md for. Once you answer each question, a README.md file will be created and added to the folder that contains the README Generator code. If you already have a README.md file, it will be overwritten with the information generated. 
 
-Link to deployed application: https://vannasaur.github.io/professional-readme-generator/
+## Demo
+
+Please see a demo of my application [here](https://drive.google.com/file/d/1ymB5xPjwDnNUlaStpg9w4nJ8Qoi1KO-5/view?usp=sharing).
 
 ## Credits
 
